@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.clr{
+    clear: both;
+}
+
+
+.nav {
+    background-color: black;
+}
+
+.container{
+    width: 80% ;
+    margin: auto;
+}
+
+.logo  {
+    float: left ; 
+   margin-top: 10px;
+}
+.container .logo img {
+    width: 50%;
+}
+
+.nav .list{
+    padding: 10px;
+    float: right;
+    
+}
+
+ul {
+    list-style-type: none ;
+}
+ul li{
+    float: left ;
+}
+ul li a{
+    color: white;
+    margin-right: 14px;
+}
+
